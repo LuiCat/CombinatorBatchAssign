@@ -1,0 +1,10 @@
+{
+    "name": "CombinatorBatchAssign",
+    "version": "0.1.1",
+    "factorio_version": "0.15",
+    "title": "Batch Assignment to Constant Combinators Mod",
+    "author": "LuiCat",
+    "contact": "",
+    "homepage": "",
+    "description": "Mod that allows batch assign the pre-loaded data into arrays of constant combinators by pasting settings"
+  }
